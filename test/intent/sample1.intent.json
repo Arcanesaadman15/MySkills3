@@ -1,0 +1,7 @@
+{
+  "utterance": "Give me details about my girl friend",
+  "intent_type": "GirlFriendIntent",
+  "intent": {
+    "GirlFriendKeyword": "girl friend"
+  }
+}
